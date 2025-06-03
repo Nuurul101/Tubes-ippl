@@ -268,11 +268,11 @@ CREATE TABLE order_items (
 ## 👥 Tim Pengembang
 
 ### Core Team
-- **Project Manager**: [Nama]
-- **Lead Developer**: [Nama]
-- **UI/UX Designer**: [Nama]
-- **Database Administrator**: [Nama]
-- **Security Specialist**: [Nama]
+- **Project Manager**: [Kharisma Nurhayati, Laura Anisa MR, Nuurul Azizah]
+- **Lead Developer**: [Nuurul Azizah]
+- **UI/UX Designer**: [Laura Anisa MF]
+- **Database Administrator**: [Nuurul Azizah]
+- **Security Specialist**: [Kharisma Nurhayati]
 
 ### Kontributor
 - [Daftar kontributor akan ditambahkan di sini]
